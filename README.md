@@ -14,10 +14,10 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <!-- Texto a la izquierda -->
-<div style="flex: 2; padding-left: 20px;">
+<div style="flex: 2;">
     <p>
       <em>
-        <h3><strong> Un breve resumen sobre mí: </strong></h3>
+        <h3 align="center"><strong> Un breve resumen sobre mí: </strong></h3>
         👋 Mi nombre es <strong>Carlos Rodolfo Sanchez</strong> <br>
         🎓 Soy Analista Programador Universitario, graduado en la Facultad de Ingeniería de la Universidad Nacional de Jujuy. <br>
         💻 Me apasiona el desarrollo web de punta a punta: desde el diseño de soluciones para problemas reales hasta la implementación del producto final. <br>
@@ -25,11 +25,6 @@
       </em>
     </p>
   </div>
-    <!-- GIF a la derecha -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY5bHZsYTJ0eWVvOXhlczRtMWNiZTM1NjVpM2ozOWVsZDljNWwxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Hkev27Jgv7S9PSpXR/giphy.gif" width="100%" height="100%">
-  </div>
-
 </div>
 
 <div id="user-content-toc">
