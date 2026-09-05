@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-    ¡Bienvenido a mi perfil de GitHub! Espero que pronto puedas explorar mi portafolio… ah, cierto, todavía no está disponible. Pero cuando lo esté, ¡te invito a volver!. </em> 
+    ¡Bienvenido a mi perfil de GitHub! Espero que pronto puedas explorar mi portafolio  ah, cierto, todavía está en desarrollo por lo cual puede presentar errores, te invito a dejarme tips para mejorarlo. </em> 
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
